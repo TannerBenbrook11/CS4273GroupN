@@ -16,3 +16,5 @@ Model Testing (Task 4): Compare predicted value from the model with actual value
 Python is an essential programming language to use in this project. Python's flexibility to read in data from multiple different file types makes this a good candidate. There are many different libraries 
 in Python that help with data extraction, such as the built in csv module or pandas. Since data from OSCAR can be presented in different formats, using Python's built in re library for regular expressions 
 allows for complex pattern matching in raw text files.
+
+React is a frontend framework that allows you to easily create UI components. React is technically a JavaScript library and previous javascript experience would help. It lets you compose complex UIs from small and isolated pieces of code called “components." Each components are reusable allows you to recycle previously created UIs.
