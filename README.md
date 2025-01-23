@@ -23,3 +23,9 @@ Since this project will be using React as a frontend and Python for the backend 
 
 ## Key Feature for Unit Testing
 A key feature pertaining to this project is related to Data Collection. Since the data that we will be reading in is from a standard format file, test cases checking file handling in python is a good first step.
+
+## Goals and Project Timeline:
+Progress report 1 (Feb. 14th): Finish Task 1 and all testing related to Task 1.
+Progess report 2 (Mar. 7th): Finish Task 2 and all testing related to Task 2.
+Progress report 3 (Apr. 11th): Finish Task 3 and all testing related to Task 3.
+Progess report 4 (May 2nd): Finish Task 4 and all testing related to Task 4.
