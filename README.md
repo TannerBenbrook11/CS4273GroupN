@@ -5,7 +5,7 @@
 ### Group Members
 
 - Dylan Zemlin - Product Owner
-- Tanner - Quality Assurance
+- Tanner Benbrook - Quality Assurance
 - Ben Yokell - Sprint Master 1
 - Ameer Ghazal - Sprint Master 2
 - Xin Lai - Sprint Master 3
