@@ -26,6 +26,9 @@ A key feature pertaining to this project is related to Data Collection. Since th
 
 ## Goals and Project Timeline:
 Progress report 1 (Feb. 14th): Finish Task 1 and all testing related to Task 1.
+
 Progess report 2 (Mar. 7th): Finish Task 2 and all testing related to Task 2.
+
 Progress report 3 (Apr. 11th): Finish Task 3 and all testing related to Task 3.
+
 Progess report 4 (May 2nd): Finish Task 4 and all testing related to Task 4.
