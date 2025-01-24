@@ -44,7 +44,7 @@ Progress report 4 (May 2nd): Finish Task 4 and all testing related to Task 4.
 
 ## Installation and Building
 
-### Installing Python 3
+### Installing Python
 
 Our code was tested and ran on Python 3.11.9. You can download this verison, and others, from the [Python Website](https://www.python.org/downloads/). We cannot guarantee results on any other version of python. Note, depending on your operating system and how it installs python you may have to use the standard `python` command to invoke python instead of `python3`.
 
