@@ -100,8 +100,14 @@ ruby other/ruby_unit_test.rb
 
 #### .java
 
-To run the single java file, install Java (latest version) and run the following commands. You may need to install packages on your sytem and follow other procedures not listed here in order for this to run.
+To run the java test file and java file, install Java (latest version) and run the following commands. You will want to install maven and set up a .xml file to run. After instealling maven, create a maven project by running this command:
 ```bash
-javac other/TestCSVFileReading.java
-java other/TestCSVFileReading
+mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+```
+You can replace the App.java file and the AppTest.java file with the files located in  the other/ folder with CSVReader.java and TestCSVFileReading.java respectively. After setting up your .xml file and creating your maven project with the above command, run these commands to test your .java files:
+```bash
+cd my-app
+```
+```bash
+mvn test
 ```
