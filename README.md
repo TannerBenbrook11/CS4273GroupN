@@ -50,13 +50,13 @@ Our code was tested and ran on Python 3.11.9. You can download this verison, and
 
 ### Create a virtual environment
 
-Before you get started, it is standard practice to create a virtual environment for each project you are working on. To do that, run the following commands
+Before you get started, it is standard practice to create a virtual environment for each project you are working on. To do that, run the following command while in the root directory of the project
 ```bash
 # Create a virtual environment in the .venv directory
 python3 -m venv .venv
 ```
 
-Then activate your  virtual environment. This will depend on your operating system, but the following two should work for Windows and Linux respectively
+Then activate your virtual environment. This will depend on your operating system, but the following two should work for Windows and Linux respectively
 ```bash
 # Windows
 ./.venv/Scripts/activate.bat
@@ -67,7 +67,7 @@ source .venv/bin/activate
 
 ### Installing Dependencies
 
-To install dependencies, use the included `requirements.txt` file which will include all dependencies needed to run our project. To install them, run the following command
+To install dependencies, use the included `requirements.txt` file which will include all dependencies needed to run our project. To install them, run the following command while in the root directory of the project
 ```bash
 # Install all dependencies from requirements.txt
 python3 -m pip install -r requirements.txt
@@ -75,7 +75,7 @@ python3 -m pip install -r requirements.txt
 
 ### Running Unit Tests
 
-To run all of our unit tests, simply run the following command
+To run all of our unit tests, simply run the following command while in the root directory of the project
 ```bash
 # Run all unit tests
 python3 -m unittest discover -s tests -v
