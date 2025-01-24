@@ -100,7 +100,7 @@ ruby other/ruby_unit_test.rb
 
 #### .java
 
-To run the java test file and java file, install Java (latest version) and run the following commands. You will want to install maven and set up a .xml file to run. After instealling maven, create a maven project by running this command:
+To run the java test file and java file, install Java (latest version) and run the following commands. You will want to install maven and set up a .xml file to run. After installing maven, create a maven project by running this command:
 ```bash
 mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
