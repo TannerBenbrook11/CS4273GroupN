@@ -86,3 +86,22 @@ The `discover` argument allows unittest to discover tests, the `-s` flag tells i
 ### Running the Application
 
 There is currently no application to run yet.
+
+### Other Unit Tests
+
+To run the other unit tests, follow their respective instructions
+
+#### .rb
+
+To run the ruby unit tests, install Ruby (not covered here) and run the following command
+```bash
+ruby other/ruby_unit_test.rb
+```
+
+#### .java
+
+To run the single java file, install Java (latest version) and run the following commands. You may need to install packages on your sytem and follow other procedures not listed here in order for this to run.
+```bash
+javac other/TestCSVFileReading.java
+java other/TestCSVFileReading
+```
