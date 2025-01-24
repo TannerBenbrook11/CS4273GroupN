@@ -17,7 +17,7 @@ Python is an essential programming language to use in this project. Python's fle
 in Python that help with data extraction, such as the built in csv module or pandas. Since data from OSCAR can be presented in different formats, using Python's built in re library for regular expressions 
 allows for complex pattern matching in raw text files.
 
-React is a frontend framework that allows you to easily create UI components. React is technically a JavaScript library and previous javascript experience would help. It lets you compose complex UIs from small and isolated pieces of code called “components." Each components are reusable allows you to recycle previously created UIs.
+React is a frontend framework that allows you to easily create UI components. React is technically a JavaScript library and previous javascript experience would help. It lets you compose complex UIs from small and isolated pieces of code called “components." Components are reusable which allows you to recycle previously created UIs.
 
 Since this project will be using React as a frontend and Python for the backend and data handling, there needs to be a way for these two things to communicate. There are many different ways to do this, like using flask or fastAPI to create a REST API that can read data from this .csv file and give this data to the React frontend. REST is essentially a way for a frontend tool like React to communicate with a backend tool like Python over HTTP. It uses HTTP commands such as GET, POST, PATCH, and DELETE.
 
