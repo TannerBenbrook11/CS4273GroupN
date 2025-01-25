@@ -1,0 +1,716 @@
+Section,Key,Value
+c001,Architecture,x86_64
+c001,CPU op-mode(s),"32-bit, 64-bit"
+c001,Address sizes,"46 bits physical, 48 bits virtual"
+c001,Byte Order,Little Endian
+c001,CPU(s),24
+c001,On-line CPU(s) list,0-23
+c001,Vendor ID,GenuineIntel
+c001,Model name,Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
+c001,CPU family,6
+c001,Model,63
+c001,Thread(s) per core,1
+c001,Core(s) per socket,12
+c001,Socket(s),2
+c001,Stepping,2
+c001,CPU(s) scaling MHz,95%
+c001,CPU max MHz,3100.0000
+c001,CPU min MHz,1200.0000
+c001,BogoMIPS,4595.03
+c001,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c001,Virtualization,VT-x
+c001,L1d cache,768 KiB (24 instances)
+c001,L1i cache,768 KiB (24 instances)
+c001,L2 cache,6 MiB (24 instances)
+c001,L3 cache,60 MiB (2 instances)
+c001,NUMA node(s),2
+c001,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18,20,22"
+c001,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19,21,23"
+c001,Vulnerability Gather data sampling,Not affected
+c001,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c001,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c001,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c001,Vulnerability Meltdown,Mitigation; PTI
+c001,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c001,Vulnerability Retbleed,Not affected
+c001,Vulnerability Spec rstack overflow,Not affected
+c001,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c001,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c001,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c001,Vulnerability Srbds,Not affected
+c001,Vulnerability Tsx async abort,Not affected
+c002,Architecture,x86_64
+c002,CPU op-mode(s),"32-bit, 64-bit"
+c002,Address sizes,"46 bits physical, 48 bits virtual"
+c002,Byte Order,Little Endian
+c002,CPU(s),48
+c002,On-line CPU(s) list,0-47
+c002,Vendor ID,GenuineIntel
+c002,Model name,Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
+c002,CPU family,6
+c002,Model,63
+c002,Thread(s) per core,2
+c002,Core(s) per socket,12
+c002,Socket(s),2
+c002,Stepping,2
+c002,CPU(s) scaling MHz,99%
+c002,CPU max MHz,3100.0000
+c002,CPU min MHz,1200.0000
+c002,BogoMIPS,4594.80
+c002,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c002,Virtualization,VT-x
+c002,L1d cache,768 KiB (24 instances)
+c002,L1i cache,768 KiB (24 instances)
+c002,L2 cache,6 MiB (24 instances)
+c002,L3 cache,60 MiB (2 instances)
+c002,NUMA node(s),2
+c002,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46"
+c002,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47"
+c002,Vulnerability Gather data sampling,Not affected
+c002,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c002,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT vulnerable"
+c002,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT vulnerable
+c002,Vulnerability Meltdown,Mitigation; PTI
+c002,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT vulnerable
+c002,Vulnerability Retbleed,Not affected
+c002,Vulnerability Spec rstack overflow,Not affected
+c002,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c002,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c002,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, STIBP conditional, RSB filling, PBRSB-eIBRS Not affected"
+c002,Vulnerability Srbds,Not affected
+c002,Vulnerability Tsx async abort,Not affected
+c003,Architecture,x86_64
+c003,CPU op-mode(s),"32-bit, 64-bit"
+c003,Address sizes,"46 bits physical, 48 bits virtual"
+c003,Byte Order,Little Endian
+c003,CPU(s),24
+c003,On-line CPU(s) list,0-23
+c003,Vendor ID,GenuineIntel
+c003,Model name,Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
+c003,CPU family,6
+c003,Model,63
+c003,Thread(s) per core,1
+c003,Core(s) per socket,12
+c003,Socket(s),2
+c003,Stepping,2
+c003,CPU(s) scaling MHz,99%
+c003,CPU max MHz,3100.0000
+c003,CPU min MHz,1200.0000
+c003,BogoMIPS,4595.11
+c003,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts md_clear flush_l1d
+c003,L1d cache,768 KiB (24 instances)
+c003,L1i cache,768 KiB (24 instances)
+c003,L2 cache,6 MiB (24 instances)
+c003,L3 cache,60 MiB (2 instances)
+c003,NUMA node(s),2
+c003,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18,20,22"
+c003,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19,21,23"
+c003,Vulnerability Gather data sampling,Not affected
+c003,Vulnerability Itlb multihit,KVM: Mitigation: VMX unsupported
+c003,Vulnerability L1tf,Mitigation; PTE Inversion
+c003,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c003,Vulnerability Meltdown,Mitigation; PTI
+c003,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c003,Vulnerability Retbleed,Not affected
+c003,Vulnerability Spec rstack overflow,Not affected
+c003,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c003,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c003,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c003,Vulnerability Srbds,Not affected
+c003,Vulnerability Tsx async abort,Not affected
+c004,Architecture,x86_64
+c004,CPU op-mode(s),"32-bit, 64-bit"
+c004,Address sizes,"46 bits physical, 48 bits virtual"
+c004,Byte Order,Little Endian
+c004,CPU(s),24
+c004,On-line CPU(s) list,0-23
+c004,Vendor ID,GenuineIntel
+c004,Model name,Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
+c004,CPU family,6
+c004,Model,63
+c004,Thread(s) per core,1
+c004,Core(s) per socket,12
+c004,Socket(s),2
+c004,Stepping,2
+c004,CPU(s) scaling MHz,39%
+c004,CPU max MHz,3100.0000
+c004,CPU min MHz,1200.0000
+c004,BogoMIPS,4594.95
+c004,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts md_clear flush_l1d
+c004,L1d cache,768 KiB (24 instances)
+c004,L1i cache,768 KiB (24 instances)
+c004,L2 cache,6 MiB (24 instances)
+c004,L3 cache,60 MiB (2 instances)
+c004,NUMA node(s),2
+c004,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18,20,22"
+c004,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19,21,23"
+c004,Vulnerability Gather data sampling,Not affected
+c004,Vulnerability Itlb multihit,KVM: Mitigation: VMX unsupported
+c004,Vulnerability L1tf,Mitigation; PTE Inversion
+c004,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c004,Vulnerability Meltdown,Mitigation; PTI
+c004,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c004,Vulnerability Retbleed,Not affected
+c004,Vulnerability Spec rstack overflow,Not affected
+c004,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c004,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c004,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c004,Vulnerability Srbds,Not affected
+c004,Vulnerability Tsx async abort,Not affected
+c005,Architecture,x86_64
+c005,CPU op-mode(s),"32-bit, 64-bit"
+c005,Address sizes,"46 bits physical, 48 bits virtual"
+c005,Byte Order,Little Endian
+c005,CPU(s),20
+c005,On-line CPU(s) list,0-19
+c005,Vendor ID,GenuineIntel
+c005,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c005,CPU family,6
+c005,Model,63
+c005,Thread(s) per core,1
+c005,Core(s) per socket,10
+c005,Socket(s),2
+c005,Stepping,2
+c005,CPU(s) scaling MHz,97%
+c005,CPU max MHz,3000.0000
+c005,CPU min MHz,1200.0000
+c005,BogoMIPS,4594.67
+c005,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c005,Virtualization,VT-x
+c005,L1d cache,640 KiB (20 instances)
+c005,L1i cache,640 KiB (20 instances)
+c005,L2 cache,5 MiB (20 instances)
+c005,L3 cache,50 MiB (2 instances)
+c005,NUMA node(s),2
+c005,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c005,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c005,Vulnerability Gather data sampling,Not affected
+c005,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c005,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c005,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c005,Vulnerability Meltdown,Mitigation; PTI
+c005,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c005,Vulnerability Retbleed,Not affected
+c005,Vulnerability Spec rstack overflow,Not affected
+c005,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c005,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c005,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c005,Vulnerability Srbds,Not affected
+c005,Vulnerability Tsx async abort,Not affected
+c007,Architecture,x86_64
+c007,CPU op-mode(s),"32-bit, 64-bit"
+c007,Address sizes,"46 bits physical, 48 bits virtual"
+c007,Byte Order,Little Endian
+c007,CPU(s),20
+c007,On-line CPU(s) list,0-19
+c007,Vendor ID,GenuineIntel
+c007,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c007,CPU family,6
+c007,Model,63
+c007,Thread(s) per core,1
+c007,Core(s) per socket,10
+c007,Socket(s),2
+c007,Stepping,2
+c007,CPU(s) scaling MHz,97%
+c007,CPU max MHz,3000.0000
+c007,CPU min MHz,1200.0000
+c007,BogoMIPS,4594.84
+c007,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c007,Virtualization,VT-x
+c007,L1d cache,640 KiB (20 instances)
+c007,L1i cache,640 KiB (20 instances)
+c007,L2 cache,5 MiB (20 instances)
+c007,L3 cache,50 MiB (2 instances)
+c007,NUMA node(s),2
+c007,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c007,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c007,Vulnerability Gather data sampling,Not affected
+c007,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c007,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c007,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c007,Vulnerability Meltdown,Mitigation; PTI
+c007,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c007,Vulnerability Retbleed,Not affected
+c007,Vulnerability Spec rstack overflow,Not affected
+c007,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c007,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c007,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c007,Vulnerability Srbds,Not affected
+c007,Vulnerability Tsx async abort,Not affected
+c009,Architecture,x86_64
+c009,CPU op-mode(s),"32-bit, 64-bit"
+c009,Address sizes,"46 bits physical, 48 bits virtual"
+c009,Byte Order,Little Endian
+c009,CPU(s),20
+c009,On-line CPU(s) list,0-19
+c009,Vendor ID,GenuineIntel
+c009,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c009,CPU family,6
+c009,Model,63
+c009,Thread(s) per core,1
+c009,Core(s) per socket,10
+c009,Socket(s),2
+c009,Stepping,2
+c009,CPU(s) scaling MHz,94%
+c009,CPU max MHz,3000.0000
+c009,CPU min MHz,1200.0000
+c009,BogoMIPS,4594.52
+c009,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c009,Virtualization,VT-x
+c009,L1d cache,640 KiB (20 instances)
+c009,L1i cache,640 KiB (20 instances)
+c009,L2 cache,5 MiB (20 instances)
+c009,L3 cache,50 MiB (2 instances)
+c009,NUMA node(s),2
+c009,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c009,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c009,Vulnerability Gather data sampling,Not affected
+c009,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c009,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c009,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c009,Vulnerability Meltdown,Mitigation; PTI
+c009,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c009,Vulnerability Retbleed,Not affected
+c009,Vulnerability Spec rstack overflow,Not affected
+c009,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c009,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c009,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c009,Vulnerability Srbds,Not affected
+c009,Vulnerability Tsx async abort,Not affected
+c010,Architecture,x86_64
+c010,CPU op-mode(s),"32-bit, 64-bit"
+c010,Address sizes,"46 bits physical, 48 bits virtual"
+c010,Byte Order,Little Endian
+c010,CPU(s),20
+c010,On-line CPU(s) list,0-19
+c010,Vendor ID,GenuineIntel
+c010,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c010,CPU family,6
+c010,Model,63
+c010,Thread(s) per core,1
+c010,Core(s) per socket,10
+c010,Socket(s),2
+c010,Stepping,2
+c010,CPU(s) scaling MHz,99%
+c010,CPU max MHz,3000.0000
+c010,CPU min MHz,1200.0000
+c010,BogoMIPS,4594.19
+c010,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts md_clear flush_l1d
+c010,L1d cache,640 KiB (20 instances)
+c010,L1i cache,640 KiB (20 instances)
+c010,L2 cache,5 MiB (20 instances)
+c010,L3 cache,50 MiB (2 instances)
+c010,NUMA node(s),2
+c010,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c010,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c010,Vulnerability Gather data sampling,Not affected
+c010,Vulnerability Itlb multihit,KVM: Mitigation: VMX unsupported
+c010,Vulnerability L1tf,Mitigation; PTE Inversion
+c010,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c010,Vulnerability Meltdown,Mitigation; PTI
+c010,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c010,Vulnerability Retbleed,Not affected
+c010,Vulnerability Spec rstack overflow,Not affected
+c010,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c010,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c010,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c010,Vulnerability Srbds,Not affected
+c010,Vulnerability Tsx async abort,Not affected
+c011,Architecture,x86_64
+c011,CPU op-mode(s),"32-bit, 64-bit"
+c011,Address sizes,"46 bits physical, 48 bits virtual"
+c011,Byte Order,Little Endian
+c011,CPU(s),20
+c011,On-line CPU(s) list,0-19
+c011,Vendor ID,GenuineIntel
+c011,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c011,CPU family,6
+c011,Model,63
+c011,Thread(s) per core,1
+c011,Core(s) per socket,10
+c011,Socket(s),2
+c011,Stepping,2
+c011,CPU(s) scaling MHz,40%
+c011,CPU max MHz,3000.0000
+c011,CPU min MHz,1200.0000
+c011,BogoMIPS,4594.93
+c011,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c011,Virtualization,VT-x
+c011,L1d cache,640 KiB (20 instances)
+c011,L1i cache,640 KiB (20 instances)
+c011,L2 cache,5 MiB (20 instances)
+c011,L3 cache,50 MiB (2 instances)
+c011,NUMA node(s),2
+c011,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c011,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c011,Vulnerability Gather data sampling,Not affected
+c011,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c011,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c011,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c011,Vulnerability Meltdown,Mitigation; PTI
+c011,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c011,Vulnerability Retbleed,Not affected
+c011,Vulnerability Spec rstack overflow,Not affected
+c011,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c011,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c011,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c011,Vulnerability Srbds,Not affected
+c011,Vulnerability Tsx async abort,Not affected
+c012,Architecture,x86_64
+c012,CPU op-mode(s),"32-bit, 64-bit"
+c012,Address sizes,"46 bits physical, 48 bits virtual"
+c012,Byte Order,Little Endian
+c012,CPU(s),20
+c012,On-line CPU(s) list,0-19
+c012,Vendor ID,GenuineIntel
+c012,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c012,CPU family,6
+c012,Model,63
+c012,Thread(s) per core,1
+c012,Core(s) per socket,10
+c012,Socket(s),2
+c012,Stepping,2
+c012,CPU(s) scaling MHz,97%
+c012,CPU max MHz,3000.0000
+c012,CPU min MHz,1200.0000
+c012,BogoMIPS,4594.89
+c012,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c012,Virtualization,VT-x
+c012,L1d cache,640 KiB (20 instances)
+c012,L1i cache,640 KiB (20 instances)
+c012,L2 cache,5 MiB (20 instances)
+c012,L3 cache,50 MiB (2 instances)
+c012,NUMA node(s),2
+c012,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c012,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c012,Vulnerability Gather data sampling,Not affected
+c012,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c012,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c012,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c012,Vulnerability Meltdown,Mitigation; PTI
+c012,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c012,Vulnerability Retbleed,Not affected
+c012,Vulnerability Spec rstack overflow,Not affected
+c012,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c012,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c012,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c012,Vulnerability Srbds,Not affected
+c012,Vulnerability Tsx async abort,Not affected
+c013,Architecture,x86_64
+c013,CPU op-mode(s),"32-bit, 64-bit"
+c013,Address sizes,"46 bits physical, 48 bits virtual"
+c013,Byte Order,Little Endian
+c013,CPU(s),20
+c013,On-line CPU(s) list,0-19
+c013,Vendor ID,GenuineIntel
+c013,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c013,CPU family,6
+c013,Model,63
+c013,Thread(s) per core,1
+c013,Core(s) per socket,10
+c013,Socket(s),2
+c013,Stepping,2
+c013,CPU(s) scaling MHz,99%
+c013,CPU max MHz,3000.0000
+c013,CPU min MHz,1200.0000
+c013,BogoMIPS,4594.85
+c013,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts md_clear flush_l1d
+c013,L1d cache,640 KiB (20 instances)
+c013,L1i cache,640 KiB (20 instances)
+c013,L2 cache,5 MiB (20 instances)
+c013,L3 cache,50 MiB (2 instances)
+c013,NUMA node(s),2
+c013,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c013,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c013,Vulnerability Gather data sampling,Not affected
+c013,Vulnerability Itlb multihit,KVM: Mitigation: VMX unsupported
+c013,Vulnerability L1tf,Mitigation; PTE Inversion
+c013,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c013,Vulnerability Meltdown,Mitigation; PTI
+c013,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c013,Vulnerability Retbleed,Not affected
+c013,Vulnerability Spec rstack overflow,Not affected
+c013,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c013,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c013,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c013,Vulnerability Srbds,Not affected
+c013,Vulnerability Tsx async abort,Not affected
+c014,Architecture,x86_64
+c014,CPU op-mode(s),"32-bit, 64-bit"
+c014,Address sizes,"46 bits physical, 48 bits virtual"
+c014,Byte Order,Little Endian
+c014,CPU(s),20
+c014,On-line CPU(s) list,0-19
+c014,Vendor ID,GenuineIntel
+c014,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c014,CPU family,6
+c014,Model,63
+c014,Thread(s) per core,1
+c014,Core(s) per socket,10
+c014,Socket(s),2
+c014,Stepping,2
+c014,CPU(s) scaling MHz,97%
+c014,CPU max MHz,3000.0000
+c014,CPU min MHz,1200.0000
+c014,BogoMIPS,4594.87
+c014,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c014,Virtualization,VT-x
+c014,L1d cache,640 KiB (20 instances)
+c014,L1i cache,640 KiB (20 instances)
+c014,L2 cache,5 MiB (20 instances)
+c014,L3 cache,50 MiB (2 instances)
+c014,NUMA node(s),2
+c014,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c014,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c014,Vulnerability Gather data sampling,Not affected
+c014,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c014,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c014,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c014,Vulnerability Meltdown,Mitigation; PTI
+c014,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c014,Vulnerability Retbleed,Not affected
+c014,Vulnerability Spec rstack overflow,Not affected
+c014,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c014,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c014,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c014,Vulnerability Srbds,Not affected
+c014,Vulnerability Tsx async abort,Not affected
+c015,Architecture,x86_64
+c015,CPU op-mode(s),"32-bit, 64-bit"
+c015,Address sizes,"46 bits physical, 48 bits virtual"
+c015,Byte Order,Little Endian
+c015,CPU(s),20
+c015,On-line CPU(s) list,0-19
+c015,Vendor ID,GenuineIntel
+c015,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c015,CPU family,6
+c015,Model,63
+c015,Thread(s) per core,1
+c015,Core(s) per socket,10
+c015,Socket(s),2
+c015,Stepping,2
+c015,CPU(s) scaling MHz,94%
+c015,CPU max MHz,3000.0000
+c015,CPU min MHz,1200.0000
+c015,BogoMIPS,4594.65
+c015,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c015,Virtualization,VT-x
+c015,L1d cache,640 KiB (20 instances)
+c015,L1i cache,640 KiB (20 instances)
+c015,L2 cache,5 MiB (20 instances)
+c015,L3 cache,50 MiB (2 instances)
+c015,NUMA node(s),2
+c015,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c015,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c015,Vulnerability Gather data sampling,Not affected
+c015,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c015,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c015,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c015,Vulnerability Meltdown,Mitigation; PTI
+c015,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c015,Vulnerability Retbleed,Not affected
+c015,Vulnerability Spec rstack overflow,Not affected
+c015,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c015,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c015,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c015,Vulnerability Srbds,Not affected
+c015,Vulnerability Tsx async abort,Not affected
+c016,Architecture,x86_64
+c016,CPU op-mode(s),"32-bit, 64-bit"
+c016,Address sizes,"46 bits physical, 48 bits virtual"
+c016,Byte Order,Little Endian
+c016,CPU(s),20
+c016,On-line CPU(s) list,0-19
+c016,Vendor ID,GenuineIntel
+c016,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c016,CPU family,6
+c016,Model,63
+c016,Thread(s) per core,1
+c016,Core(s) per socket,10
+c016,Socket(s),2
+c016,Stepping,2
+c016,CPU(s) scaling MHz,97%
+c016,CPU max MHz,3000.0000
+c016,CPU min MHz,1200.0000
+c016,BogoMIPS,4594.64
+c016,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c016,Virtualization,VT-x
+c016,L1d cache,640 KiB (20 instances)
+c016,L1i cache,640 KiB (20 instances)
+c016,L2 cache,5 MiB (20 instances)
+c016,L3 cache,50 MiB (2 instances)
+c016,NUMA node(s),2
+c016,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c016,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c016,Vulnerability Gather data sampling,Not affected
+c016,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c016,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c016,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c016,Vulnerability Meltdown,Mitigation; PTI
+c016,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c016,Vulnerability Retbleed,Not affected
+c016,Vulnerability Spec rstack overflow,Not affected
+c016,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c016,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c016,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c016,Vulnerability Srbds,Not affected
+c016,Vulnerability Tsx async abort,Not affected
+c017,Architecture,x86_64
+c017,CPU op-mode(s),"32-bit, 64-bit"
+c017,Address sizes,"46 bits physical, 48 bits virtual"
+c017,Byte Order,Little Endian
+c017,CPU(s),20
+c017,On-line CPU(s) list,0-19
+c017,Vendor ID,GenuineIntel
+c017,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c017,CPU family,6
+c017,Model,63
+c017,Thread(s) per core,1
+c017,Core(s) per socket,10
+c017,Socket(s),2
+c017,Stepping,2
+c017,CPU(s) scaling MHz,99%
+c017,CPU max MHz,3000.0000
+c017,CPU min MHz,1200.0000
+c017,BogoMIPS,4594.99
+c017,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts md_clear flush_l1d
+c017,L1d cache,640 KiB (20 instances)
+c017,L1i cache,640 KiB (20 instances)
+c017,L2 cache,5 MiB (20 instances)
+c017,L3 cache,50 MiB (2 instances)
+c017,NUMA node(s),2
+c017,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c017,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c017,Vulnerability Gather data sampling,Not affected
+c017,Vulnerability Itlb multihit,KVM: Mitigation: VMX unsupported
+c017,Vulnerability L1tf,Mitigation; PTE Inversion
+c017,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c017,Vulnerability Meltdown,Mitigation; PTI
+c017,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c017,Vulnerability Retbleed,Not affected
+c017,Vulnerability Spec rstack overflow,Not affected
+c017,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c017,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c017,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c017,Vulnerability Srbds,Not affected
+c017,Vulnerability Tsx async abort,Not affected
+c018,Architecture,x86_64
+c018,CPU op-mode(s),"32-bit, 64-bit"
+c018,Address sizes,"46 bits physical, 48 bits virtual"
+c018,Byte Order,Little Endian
+c018,CPU(s),20
+c018,On-line CPU(s) list,0-19
+c018,Vendor ID,GenuineIntel
+c018,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c018,CPU family,6
+c018,Model,63
+c018,Thread(s) per core,1
+c018,Core(s) per socket,10
+c018,Socket(s),2
+c018,Stepping,2
+c018,CPU(s) scaling MHz,40%
+c018,CPU max MHz,3000.0000
+c018,CPU min MHz,1200.0000
+c018,BogoMIPS,4594.32
+c018,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c018,Virtualization,VT-x
+c018,L1d cache,640 KiB (20 instances)
+c018,L1i cache,640 KiB (20 instances)
+c018,L2 cache,5 MiB (20 instances)
+c018,L3 cache,50 MiB (2 instances)
+c018,NUMA node(s),2
+c018,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c018,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c018,Vulnerability Gather data sampling,Not affected
+c018,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c018,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c018,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c018,Vulnerability Meltdown,Mitigation; PTI
+c018,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c018,Vulnerability Retbleed,Not affected
+c018,Vulnerability Spec rstack overflow,Not affected
+c018,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c018,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c018,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c018,Vulnerability Srbds,Not affected
+c018,Vulnerability Tsx async abort,Not affected
+c019,Architecture,x86_64
+c019,CPU op-mode(s),"32-bit, 64-bit"
+c019,Address sizes,"46 bits physical, 48 bits virtual"
+c019,Byte Order,Little Endian
+c019,CPU(s),20
+c019,On-line CPU(s) list,0-19
+c019,Vendor ID,GenuineIntel
+c019,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c019,CPU family,6
+c019,Model,63
+c019,Thread(s) per core,1
+c019,Core(s) per socket,10
+c019,Socket(s),2
+c019,Stepping,2
+c019,CPU(s) scaling MHz,97%
+c019,CPU max MHz,3000.0000
+c019,CPU min MHz,1200.0000
+c019,BogoMIPS,4594.78
+c019,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c019,Virtualization,VT-x
+c019,L1d cache,640 KiB (20 instances)
+c019,L1i cache,640 KiB (20 instances)
+c019,L2 cache,5 MiB (20 instances)
+c019,L3 cache,50 MiB (2 instances)
+c019,NUMA node(s),2
+c019,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c019,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c019,Vulnerability Gather data sampling,Not affected
+c019,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c019,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c019,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c019,Vulnerability Meltdown,Mitigation; PTI
+c019,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c019,Vulnerability Retbleed,Not affected
+c019,Vulnerability Spec rstack overflow,Not affected
+c019,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c019,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c019,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c019,Vulnerability Srbds,Not affected
+c019,Vulnerability Tsx async abort,Not affected
+c020,Architecture,x86_64
+c020,CPU op-mode(s),"32-bit, 64-bit"
+c020,Address sizes,"46 bits physical, 48 bits virtual"
+c020,Byte Order,Little Endian
+c020,CPU(s),20
+c020,On-line CPU(s) list,0-19
+c020,Vendor ID,GenuineIntel
+c020,Model name,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+c020,CPU family,6
+c020,Model,63
+c020,Thread(s) per core,1
+c020,Core(s) per socket,10
+c020,Socket(s),2
+c020,Stepping,2
+c020,CPU(s) scaling MHz,97%
+c020,CPU max MHz,3000.0000
+c020,CPU min MHz,1200.0000
+c020,BogoMIPS,4594.28
+c020,Flags,fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts vnmi md_clear flush_l1d
+c020,Virtualization,VT-x
+c020,L1d cache,640 KiB (20 instances)
+c020,L1i cache,640 KiB (20 instances)
+c020,L2 cache,5 MiB (20 instances)
+c020,L3 cache,50 MiB (2 instances)
+c020,NUMA node(s),2
+c020,NUMA node0 CPU(s),"0,2,4,6,8,10,12,14,16,18"
+c020,NUMA node1 CPU(s),"1,3,5,7,9,11,13,15,17,19"
+c020,Vulnerability Gather data sampling,Not affected
+c020,Vulnerability Itlb multihit,KVM: Mitigation: VMX disabled
+c020,Vulnerability L1tf,"Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled"
+c020,Vulnerability Mds,Mitigation; Clear CPU buffers; SMT disabled
+c020,Vulnerability Meltdown,Mitigation; PTI
+c020,Vulnerability Mmio stale data,Mitigation; Clear CPU buffers; SMT disabled
+c020,Vulnerability Retbleed,Not affected
+c020,Vulnerability Spec rstack overflow,Not affected
+c020,Vulnerability Spec store bypass,Mitigation; Speculative Store Bypass disabled via prctl
+c020,Vulnerability Spectre v1,Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+c020,Vulnerability Spectre v2,"Mitigation; Retpolines, IBPB conditional, IBRS_FW, RSB filling, PBRSB-eIBRS Not affected"
+c020,Vulnerability Srbds,Not affected
+c020,Vulnerability Tsx async abort,Not affected
